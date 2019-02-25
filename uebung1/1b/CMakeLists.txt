@@ -1,0 +1,1 @@
+add_executable(uebung1_1b typinferenz.cpp)

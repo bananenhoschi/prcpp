@@ -1,0 +1,1 @@
+add_executable(uebung1_1a makros.cpp)

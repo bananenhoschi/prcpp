@@ -1,0 +1,6 @@
+add_subdirectory(1a)
+add_subdirectory(1b)
+add_subdirectory(1c)
+add_subdirectory(1d)
+add_subdirectory(1e)
+add_subdirectory(1f)
