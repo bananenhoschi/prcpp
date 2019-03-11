@@ -1,0 +1,1 @@
+add_executable(uebung2_2f LinkedList.cpp LinkedList.h test26.cpp)
