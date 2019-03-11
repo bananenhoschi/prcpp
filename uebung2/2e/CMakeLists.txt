@@ -1,0 +1,1 @@
+add_executable(uebung2_2d TextAnalyzer.cpp TextAnalyzer.h test25.cpp)
