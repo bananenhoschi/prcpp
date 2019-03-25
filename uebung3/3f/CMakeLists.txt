@@ -1,0 +1,1 @@
+add_executable(uebung3_3f BitSet.cpp BitSet.h test36.cpp)
